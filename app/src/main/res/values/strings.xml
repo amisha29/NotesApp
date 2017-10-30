@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="signup_msg">Not registered? Sign up</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="key_username">username</string>
+    <string name="key_password">password</string>
+    <string name="auth_sharedpref">authentication</string>
+</resources>
